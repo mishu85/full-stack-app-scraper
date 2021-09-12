@@ -1,0 +1,8 @@
+https://www.tutorialspoint.com/http/http_requests.htm
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON
+
+https://medium.com/datadriveninvestor/flask-for-beginners-3ea6d9849eae
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction
+https://medium.com/better-programming/api-development-with-flask-for-the-absolute-beginner-a2163b2bd8ca
+https://flask.palletsprojects.com/en/1.1.x/quickstart/
+https://medium.com/better-programming/restful-api-design-step-by-step-guide-2f2c9f9fcdbf
